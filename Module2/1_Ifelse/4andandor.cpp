@@ -1,5 +1,5 @@
 //wap to tell no is 3 digit or not?
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int main(){
     int a;
